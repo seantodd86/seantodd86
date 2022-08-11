@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on CS50 problem sets
 - 📫 You can reach me on GitHub
 
-<!---
+This is the updated section of this repository
+Testing submitting through CLI
+
+
 seantodd86/seantodd86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
